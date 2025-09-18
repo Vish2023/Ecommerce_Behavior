@@ -17,4 +17,4 @@ Third portfolio project analyzing e-commerce data with SQL and Tableau.
 - **Top Customers**: Horizontal bar chart of top 10 customers by spending.
 
 ## Screenshots
-![Dashboard Screenshot](Financial_Performance_Dashboard_Screenshot.png)
+![Dashboard Screenshot](Ecommerce_Behavior_Dashboard_Screenshot.png)
